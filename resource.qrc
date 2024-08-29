@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/sample_level.txt</file>
+        <file>assets/unpressButton.png</file>
+        <file>assets/sample_terraintextures.png</file>
+        <file>assets/sample_raytextures.png</file>
+        <file>assets/sample_bombtextures.png</file>
+        <file>assets/pressButton.png</file>
+        <file>assets/playersheets.png</file>
+        <file>assets/plant.wav</file>
+        <file>assets/micross.ttf</file>
+        <file>assets/menuPiGames.png</file>
+        <file>assets/menuLogo.png</file>
+        <file>assets/menuBackground.png</file>
+        <file>assets/menu.wav</file>
+        <file>assets/icon.rc</file>
+        <file>assets/icon.png</file>
+        <file>assets/icon.ico</file>
+        <file>assets/hurt.wav</file>
+        <file>assets/game.wav</file>
+        <file>assets/frame.png</file>
+        <file>assets/expl.wav</file>
+        <file>assets/credits.png</file>
+        <file>assets/Cat.ttf</file>
+        <file>assets/ahronbd.ttf</file>
+        <file>assets/playersheets1.png</file>
+        <file>assets/avatar.png</file>
+    </qresource>
+</RCC>
