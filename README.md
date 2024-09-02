@@ -7,3 +7,4 @@ Remake of Bomberman written in C++ and Qt. This is a Qt/C++ fork of the [C++ SFM
 
 ## Addons
 * [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
+* [Video](https://youtu.be/qCnIcsEiYvY) - gameplay
